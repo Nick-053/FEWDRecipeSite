@@ -1,3 +1,2 @@
 # FEWDRecipeSite
-Hello there
-My name is Nick
+Recipe Website Practice
